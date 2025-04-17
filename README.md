@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-- 🌱 I’m currently learning C++, C#, and Python
-
+- 🌱 I’m currently learning cybersecurity and a bit of web application development
+- 🔭 I’m currently working on online courses for cybersecurity such as SIEM fundamentals from Google SecOps, Google Cybersecurity course
 
 <!--
 **Vynzzz/Vynzzz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
